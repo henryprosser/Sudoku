@@ -4,6 +4,8 @@
 
 This project solves sudokus of varying difficulties. There are four difficulties of sudoku provided: very easy, easy, medium, and hard. In each category there are 15 sample sudokus.
 
+**Achieved a grade of 90%**
+
 ## Constraint Satisfaction Problem
 
 Sudoku is an example of a Constraint Satisfaction Problem (CSP). The problem is such that for each row, column and 3x3 box, the numbers 1-9 can only appear once. 
